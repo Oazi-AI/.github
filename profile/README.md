@@ -10,7 +10,6 @@ Oazi-AI is here to enable everyone to harness the power of AI. By creating acces
 
 ## 🚀 What We Offer
 
-- **Cutting-edge Models**: We develop state-of-the-art AI models that are open-source and available for everyone to use, improve, and learn from.
 - **Collaborative Community**: At Oazi-AI, we’re building a welcoming space where developers, researchers, and AI enthusiasts can contribute, discuss, and grow.
 - **Resources for Learning**: We believe in sharing knowledge. Alongside our models, you'll find resources to help you understand and use AI technology effectively.
 
